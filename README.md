@@ -1,5 +1,3 @@
-### See https://github.com/Plailect/Guide/wiki
-
-Russian version of Plailect's guide.
+### Оригинал https://github.com/Plailect/Guide/wiki
 
 Русская версия гайда но установке a9lh.
